@@ -14,7 +14,7 @@ int main()
     scanf("%d" , &idade);
     
     //Saída
-    printf("Esta e a sua idade: %d", idade ," anos");
+    printf("Esta e a sua idade: %d", idade);
 
     return 0;
 } //(fim do bloco)
