@@ -93,6 +93,23 @@ int main(){
 }
 ~~~
 
+## Tipos De Dados
+
+### Tipos Numericos
+
+- Tipo interiro
+  - int: 7, 5, 20, 53541,...
+- Tipo Reais
+    - float: 23.4, 1.234,...
+    >Suporta até dez caracteres.
+    - double: 23.4, 1.234,...
+    >Suporta mais dados que o float.
+#### Quando usar cada tipo
+
+O tipo de dados int serve para guardar números inteiros, positivos e negativos. Os tipos de dados float e double são usados para guardar números reais. A diferença entre eles é a precisão. O float tem uma precisão de 6 casas decimais e o double tem uma precisão de 10 casas decimais.
+
+> {Matheus Cristiano de Almeida [https://todasasrespostas.pt/quando-usar-int-ou-float] <>
+____
 ## Dicas Gerais
 
 - Sempre que for usar uma variavel para soma que não será inicializa pelo usuario, Crie uma Variavel inicializada para evitar problema futuro no codígo.
