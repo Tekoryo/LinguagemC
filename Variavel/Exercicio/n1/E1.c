@@ -2,13 +2,13 @@
 // Faça um programa que leia um numero inteiro e o imprima.
 int main(){
 
-    int I;
+    int Numero_Inteiro;
 
     printf("Digite um numero inteiro: ");
 
-    scanf("%d",&I);
+    scanf("%d",&Numero_Inteiro);
 
-    printf("O numero e: %d", I);
+    printf("O numero e: %d", Numero_Inteiro);
 
     return 0;
 }
